@@ -2,8 +2,8 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "net.holubec.tczparking"
-        version   = "1.0.4">
-    <name>TCZ Parking</name>
+        version   = "1.0.5">
+    <name>O2 Parking</name>
 
     <description>
         Aplikace zobrazuje stav obsazenosti parkovacích míst v budovách Telefonica Praha.
